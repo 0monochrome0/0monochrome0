@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0monochrome0
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ...Python and sql
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...TBA
 - 📫 How to reach me ...TBA
 - 😄 Pronouns: ...he/him
